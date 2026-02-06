@@ -1,0 +1,39 @@
+{
+  "agents": [
+    {
+      "name": "STRATEGY_AGENT",
+      "role": "The Brain",
+      "skills": [
+        "Search YouTube API for top-performing thumbnails in a specific niche",
+        "Analyze video transcripts to extract the Hook words"
+      ],
+      "responsibilities": [
+        "Define layout",
+        "Define text",
+        "Define emotional vibe"
+      ]
+    },
+    {
+      "name": "VISUAL_AGENT",
+      "role": "The Artist",
+      "skills": [
+        "Integrate with Gemini for image generation",
+        "Execute Local Edits via text"
+      ],
+      "responsibilities": [
+        "Generate high-fidelity backgrounds and props"
+      ]
+    },
+    {
+      "name": "CONSISTENCY_AGENT",
+      "role": "The Identity",
+      "skills": [
+        "Manage Persona Training files",
+        "Apply Character Consistency"
+      ],
+      "responsibilities": [
+        "Maintain the creator's face and wardrobe across variants"
+      ]
+    }
+  ]
+}
